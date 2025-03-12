@@ -8,7 +8,7 @@ package com.mycompany.user;
  * @author minh
  */
 public class User {
-
+//nhi
     private String userId;
     private String email;
 
